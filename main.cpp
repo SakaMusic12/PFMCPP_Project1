@@ -71,10 +71,10 @@ train.whistle();
 //  Noun:       guitar
 //  action 1:   the guitar reverberates
 guitar.rev();
-//  action 2:   the guitar is in tune
-guitar.inTune();
-//  action 3:   the guitar is amplified
-guitar.amp();
+//  action 2:   the guitar plays forte
+guitar.playForte();
+//  action 3:   the guitar breaks a string
+guitar.breakString();
 //  4)
 //  Noun:       nose
 //  action 1:   the nose sniffs
@@ -127,11 +127,11 @@ printer.connectToWifi();
 //  10)
 //  Noun:       saxophone
 //  action 1:   the saxophone plays legato 
-saxophone.legato();
+saxophone.playLegato();
 //  action 2:   the saxophone accents the note
 saxophone.accentNote();
 //  action 3:   the saxophone plays multiphonics
-saxophone.multiphonic();
+saxophone.playMultiphonic();
 
 
 #endif

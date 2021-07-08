@@ -52,85 +52,86 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       pitbull
+//  action 1:   the pitBull fetches the ball
+pitbull.fetchBall();
+//  action 2:   the pitBull sleeps
+pitbull.sleep();
+//  action 3:   the pitBull chases the car
+pitbull.chaseCar();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       elephant seal
+//  action 1:   the elephant seal begins molting
+elephantSeal.beginMolt();
+//  action 2:   the elephant seal fights for dominance
+elephantSeal.fightForDominance();
+//  action 3:   the elephant seal lounges on the beach
+elephantSeal.loungeOnBeach();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       guitar
+//  action 1:   the guitar reverberates
+guitar.rev();
+//  action 2:   the guitar plays forte
+guitar.playForte();
+//  action 3:   the guitar breaks a string
+guitar.breakString();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       nose
+//  action 1:   the nose sniffs
+nose.sniff();
+//  action 2:   the nose sneezes
+nose.sneeze();
+//  action 3:   the left nostril runs
+nose.leftNostrilRun();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       cheetah
+//  action 1:   the cheetah pounces
+cheeta.pounce();
+//  action 2:   the cheeta crouches
+cheeta.crouch();
+//  action 3:   the cheeta sips water
+cheeta.sipWater();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       mayor
+//  action 1:   the mayor delivers a speech
+mayor.deliverSpeech();
+//  action 2:   the mayor eats lunch
+mayor.eatLunch();
+//  action 3:   the mayor signs documents
+mayor.signDocument();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       monsterTruck
+//  action 1:   the monster truck crushes
+monsterTruck.crush();
+//  action 2:   the monster truck flips over
+monsterTruck.flipOver();
+//  action 3:   the monster truck burns fuel
+monsterTruck.burnFuel();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       country
+//  action 1:   the country exports bananas
+country.exportBanana();
+//  action 2:   the country collects taxes
+country.collectTax();
+//  action 3:   the country builds seaports
+country.buildSeaPort();
 //  9)
-//  Noun:
-//  action 1:
+//  Noun:       printer
+//  action 1:   the printer scans
+printer.scan();
+//  action 2:   the printer consumes ink
+printer.consumeInk();
+//  action 3:   the printer connects to wifi
+printer.connectToWifi();
 
-//  action 2:
-
-//  action 3:
- 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       saxophone
+//  action 1:   the saxophone plays legato 
+saxophone.playLegato();
+//  action 2:   the saxophone accents the note
+saxophone.accentNote();
+//  action 3:   the saxophone plays multiphonics
+saxophone.playMultiphonic();
 
 
 #endif

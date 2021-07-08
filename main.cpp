@@ -60,13 +60,13 @@ pitbull.sleep();
 //  action 3:   the pitBull chases the car
 pitbull.chaseCar();
 //  2)
-//  Noun:       train
-//  action 1:   the train derails and crashes
-train.derailAndCrash();
-//  action 2:   the train accelerates
-train.accelerate();
-//  action 3:   the train whistles
-train.whistle();
+//  Noun:       elephant seal
+//  action 1:   the elephant seal begins molting
+elephantSeal.beginMolt();
+//  action 2:   the elephant seal fights for dominance
+elephantSeal.fightForDominance();
+//  action 3:   the elephant seal lounges on the beach
+elephantSeal.loungeOnBeach();
 //  3)
 //  Noun:       guitar
 //  action 1:   the guitar reverberates
